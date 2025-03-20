@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CaioDamasceno11BTI
+- 👋 Hi, I’m @CaioDamasceno
 - 👀 I’m interested in games
 - 🌱 I’m currently learning html, css and c
-- 📫 How to reach me on contact gmail: caio.dcarvalho@eaportal
+- 📫 How to reach me on contact gmail: ocdcdcontato@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i dont know 
 
